@@ -28,9 +28,11 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+ 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=00FF00)
 - 🖥 &nbsp;
 <br/>
 
@@ -44,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/david-egbebunmi-7b548272/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-david%20egbebunmi%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/david-egbebunmi-7b548272/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Egbebunmi%20David-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/anudavies/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anudavies-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:anudavies@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anudavies@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
