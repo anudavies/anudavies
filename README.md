@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science at Bowen University.
-- 💼 &nbsp; Working as a Senior Software Developer at POS SHOP Limited.
+- 💼 &nbsp; Worked as a Senior Software Developer at POS SHOP Limited and Yanot Consultant Limited.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
